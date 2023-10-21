@@ -358,6 +358,9 @@ h6 {
     line-height: 24px;
   }
 }
+img{
+border-radius:50px;
+}
 
 /*--------------------------------------------------------------
 # Sections General
