@@ -359,7 +359,9 @@ h6 {
   }
 }
 img{
-border-radius:50px;
+    align-items: center;
+    border-radius: 90%;
+    border: black solid;
 }
 
 /*--------------------------------------------------------------
